@@ -2,8 +2,8 @@
 
 > Extremely innovative Snake gameplay
 
-![Snak Action](SnakAction.png)
-![Snak Showcase](SnakShowcase.png)
+![Snak Action](SnakAction.gif)
+![Snak Showcase](SnakShowcase.gif)
 
 ## Controls
 
